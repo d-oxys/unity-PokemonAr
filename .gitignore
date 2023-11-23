@@ -60,7 +60,6 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
-*.tgz
 
 
 # Crashlytics generated file
